@@ -3822,6 +3822,9 @@ tools:
     owner: iuc
     tool_panel_section_label: Quality Control
 
+  - name: Sequali
+    owner: iuc
+    tool_panel_section_label: Quality Control
 
 # RAD-SEQ
 
